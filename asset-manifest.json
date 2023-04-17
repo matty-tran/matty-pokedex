@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/matty-tran/matty-pokedex.git/static/css/main.1fafdb69.css",
-    "main.js": "/matty-tran/matty-pokedex.git/static/js/main.7d58f2cb.js",
-    "static/js/787.856a2c82.chunk.js": "/matty-tran/matty-pokedex.git/static/js/787.856a2c82.chunk.js",
-    "index.html": "/matty-tran/matty-pokedex.git/index.html",
-    "main.1fafdb69.css.map": "/matty-tran/matty-pokedex.git/static/css/main.1fafdb69.css.map",
-    "main.7d58f2cb.js.map": "/matty-tran/matty-pokedex.git/static/js/main.7d58f2cb.js.map",
-    "787.856a2c82.chunk.js.map": "/matty-tran/matty-pokedex.git/static/js/787.856a2c82.chunk.js.map"
+    "main.css": "/matty-pokedex/static/css/main.1fafdb69.css",
+    "main.js": "/matty-pokedex/static/js/main.90b1baef.js",
+    "static/js/787.856a2c82.chunk.js": "/matty-pokedex/static/js/787.856a2c82.chunk.js",
+    "index.html": "/matty-pokedex/index.html",
+    "main.1fafdb69.css.map": "/matty-pokedex/static/css/main.1fafdb69.css.map",
+    "main.90b1baef.js.map": "/matty-pokedex/static/js/main.90b1baef.js.map",
+    "787.856a2c82.chunk.js.map": "/matty-pokedex/static/js/787.856a2c82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fafdb69.css",
-    "static/js/main.7d58f2cb.js"
+    "static/js/main.90b1baef.js"
   ]
 }
